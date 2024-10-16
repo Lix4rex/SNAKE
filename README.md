@@ -1,2 +1,3 @@
 # SNAKE
-THIS IS A PROTOTYPE OF THE SNAKE
+
+Jeu du snake
